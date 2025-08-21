@@ -9,4 +9,17 @@
     ⚡ Local LLM (llama.cpp): Private and efficient inference.
     🎯 Concise prompting: Truthful, direct responses by design.
 
+## 🧰 Tech Stack
+    🧠 Embeddings: NeuML/pubmedbert-base-embeddings (Sentence Transformers)
+    🧾 Vector DB: Chroma
+    🤖 LLM: LlamaCpp (llama.cpp)
+    🧱 Load/Split: PyPDFDirectoryLoader, RecursiveCharacterTextSplitter
+    🧩 Orchestration: LangChain Runnable + ChatPromptTemplate
+
+## 🚀 How to Clone & Run
+    git clone https://github.com/xyz/Medical-Chatbot.git
+    cd Medical-Chatbot
+
+    
+
 
